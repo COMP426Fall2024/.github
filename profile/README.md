@@ -19,9 +19,9 @@ Follow the links for information and resources about the course:
 
 Detailed assignment instructions will be provided on the course Canvas site.
 
-| Assignment | GitHub Classroom Link | Due Date | Late Due Date | Attribution Attestation | % of Course Grade 
-| -------------: | -------------: | -------------: | -------------: | -------------: |
-| A01 HTML and CSS | [Accept Invite](https://classroom.github.com/a/mVz-miJJ) | Sep 10, 2024 at 3:30 PM | Sep 24, 2024 at 3:30 PM | [Here](https://docs.google.com/forms/d/e/1FAIpQLSdJ4T5zq5duVUQOW7RK4eYMy9Uxac5-QILbXu3fxl6e52f_Og/viewform) | 10% |
+| Assignment | GitHub Classroom Link | Due Date | Late Due Date | Attribution Attestation | % of Course Grade |
+| -------- | ------- | -------- | ------- | -------- | ------- |
+| A01 HTML and CSS | [Accept Invite](https://classroom.github.com/a/mVz-miJJ) | Sep 10, 2024 at 3:30 PM | Sep 24, 2024 at 3:30 PM | [Here](https://docs.google.com/forms/d/e/1FAIpQLScMRlGZZK8pizn4OMkccuMkm3-5TI7uDL4WuodSBKa92kYYRA/viewform) | 10% |
 
 ### Late Work
 Assignments will be considered for full credit only if turned in on-time. Late work may be accepted but the professor reserves the right to not accept late work at all.
